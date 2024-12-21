@@ -8,6 +8,16 @@ trojan://d8974fc0-bfe0-11ef-a735-1239d0255272@time.is:443/?sni=sg-4.test3.net&ty
 trojan://de659f60-bfe0-11ef-9769-1239d0255272@time.is:443/?sni=uk1.test3.net&type=ws&host=uk1.test3.net&path=%2Fhowdy#انگلیس-1
 trojan://e5a5dd80-bfe0-11ef-a4fc-1239d0255272@time.is:443/?sni=usa.test3.net&type=ws&host=usa.test3.net&path=%2Fhowdy#آمریکا-1
 
+trojan://6d6b7850-bfe2-11ef-bb14-1239d0255272@fr1.test3.net:443/turk.radicalization.ir?sni=turk.radicalization.ir#فرانسه-2
+trojan://71c86d40-bfe2-11ef-8261-1239d0255272@sg-4.test3.net:443/turk.radicalization.ir?sni=turk.radicalization.ir#سنگاپور-2
+trojan://757f93d0-bfe2-11ef-8d9e-1239d0255272@uk1.test3.net:443/turk.radicalization.ir?sni=turk.radicalization.ir#انگلیس-2
+trojan://799a7110-bfe2-11ef-a55b-1239d0255272@usa.test3.net:443/turk.radicalization.ir?sni=turk.radicalization.ir#آمریکا-2
+
+trojan://6d6b7850-bfe2-11ef-bb14-1239d0255272@turk.radicalization.ir:443/?sni=fr1.test3.net&type=ws&host=fr1.test3.net&path=%2Fhowdy#فرانسه-2
+trojan://71c86d40-bfe2-11ef-8261-1239d0255272@turk.radicalization.ir:443/?sni=sg-4.test3.net&type=ws&host=sg-4.test3.net&path=%2Fhowdy#سنگاپور-2
+trojan://757f93d0-bfe2-11ef-8d9e-1239d0255272@turk.radicalization.ir:443/?sni=uk1.test3.net&type=ws&host=uk1.test3.net&path=%2Fhowdy#انگلیس-2
+trojan://799a7110-bfe2-11ef-a55b-1239d0255272@turk.radicalization.ir:443/?sni=usa.test3.net&type=ws&host=usa.test3.net&path=%2Fhowdy#آمریکا-2
+
 trojan://fba0cdc0-bed5-11ef-8074-1239d0255272@fr1.test3.net:443/turk.radicalization.ir?sni=turk.radicalization.ir#hamedp71-4فرانسه
 trojan://f952a660-bed5-11ef-b59c-1239d0255272@usa.test3.net:443/turk.radicalization.ir?sni=turk.radicalization.ir#hamedp71-5آمریکا
 trojan://f78a0d20-bed5-11ef-bcfc-1239d0255272@uk1.test3.net:443/turk.radicalization.ir?sni=turk.radicalization.ir#hamedp71-6انگلیس
