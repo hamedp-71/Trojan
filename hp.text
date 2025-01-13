@@ -42,19 +42,10 @@ trojan://614a5030-c109-11ef-9124-1239d0255272@uk1.test3.net:443/telewebion.com?s
 trojan://583004a0-c109-11ef-9f31-1239d0255272@fr1.test3.net:443/telewebion.com?sni=telewebion.com#4-اهواز
 trojan://4ff19bc0-c109-11ef-a670-1239d0255272@usa.test3.net:443/telewebion.com?sni=telewebion.com#4-کاشان
 
-trojan://ecb49bc0-c107-11ef-b4b5-1239d0255272@uk1.test3.net:443/vodafone.com.tr?sni=vodafone.com.tr#hamedp71-انگلیس-2
-trojan://ea515c60-c107-11ef-a3ed-1239d0255272@fr1.test3.net:443/vodafone.com.tr?sni=vodafone.com.tr#hamedp71-فرانسه-2
-trojan://e7d82e40-c107-11ef-a0da-1239d0255272@usa.test3.net:443/vodafone.com.tr?sni=vodafone.com.tr#hamedp71-آمریکا-2
+trojan://ecb49bc0-c107-11ef-b4b5-1239d0255272@uk1.test3.net:443/vodafone.com.tr?sni=vodafone.com.tr#hamedp71-ارومیه-2
+trojan://ea515c60-c107-11ef-a3ed-1239d0255272@fr1.test3.net:443/vodafone.com.tr?sni=vodafone.com.tr#hamedp71-اردبیل-2
+trojan://e7d82e40-c107-11ef-a0da-1239d0255272@usa.test3.net:443/vodafone.com.tr?sni=vodafone.com.tr#hamedp71-رشت-2
 
-trojan://d0cfd920-bfe0-11ef-91dc-1239d0255272@fr1.test3.net:443/time.is?sni=time.is#فرانسه-1
-trojan://d8974fc0-bfe0-11ef-a735-1239d0255272@sg-4.test3.net:443/time.is?sni=time.is#سنگاپور-1
-trojan://de659f60-bfe0-11ef-9769-1239d0255272@uk1.test3.net:443/time.is?sni=time.is#انگلیس-1
-trojan://e5a5dd80-bfe0-11ef-a4fc-1239d0255272@usa.test3.net:443/time.is?sni=time.is#آمریکا-1
-
-trojan://6d6b7850-bfe2-11ef-bb14-1239d0255272@fr1.test3.net:443/turk.radicalization.ir?sni=turk.radicalization.ir#فرانسه-2
-trojan://71c86d40-bfe2-11ef-8261-1239d0255272@sg-4.test3.net:443/turk.radicalization.ir?sni=turk.radicalization.ir#سنگاپور-2
-trojan://757f93d0-bfe2-11ef-8d9e-1239d0255272@uk1.test3.net:443/turk.radicalization.ir?sni=turk.radicalization.ir#انگلیس-2
-trojan://799a7110-bfe2-11ef-a55b-1239d0255272@usa.test3.net:443/turk.radicalization.ir?sni=turk.radicalization.ir#آمریکا-2
 
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.99.254.90:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🇨🇦[openproxylist.com] vless-CA
