@@ -3,6 +3,10 @@
 //subscription-userinfo: upload=5368709120; download=117037858816; total=955630223360; expire=1762677732
 #profile-web-page-url: @hamedvpns
 
+trojan://59817b70-dbc2-11ef-9953-1239d0255272@fr1.test3.net:443/www.speedtest.net?sni=www.speedtest.net#🇲🇫-hamedp71
+trojan://61983ce0-dbc2-11ef-9698-1239d0255272@uk1.test3.net:443/www.speedtest.net?sni=www.speedtest.net#🇬🇧-hamedp71
+trojan://66f29b10-dbc2-11ef-bd14-1239d0255272@usa.test3.net:443/www.speedtest.net?sni=www.speedtest.net#🇺🇲-hamedp71
+
 trojan://b8d4ab60-db39-11ef-aba5-1239d0255272@fr1.test3.net:443/sb-in-f99.1e100.net?sni=sb-in-f99.1e100.net#🇲🇫-hamedp71
 trojan://d1274ee0-db39-11ef-a85c-1239d0255272@uk1.test3.net:443/sb-in-f99.1e100.net?sni=sb-in-f99.1e100.net#🇬🇧-hamedp71
 trojan://dfc50140-db39-11ef-ba23-1239d0255272@usa.test3.net:443/sb-in-f99.1e100.net?sni=sb-in-f99.1e100.net#🇺🇲-hamedp71
@@ -159,38 +163,3 @@ trojan://40b22ba0-cff1-11ef-abf4-1239d0255272@fr1.test3.net:443/www.namava.ir?sn
 trojan://66a24650-cd9e-11ef-9696-1239d0255272@fr1.test3.net:443/time.is?sni=time.is#🇲🇫-تهران
 trojan://6cc44f80-cd9e-11ef-9538-1239d0255272@uk1.test3.net:443/time.is?sni=time.is#🇬🇧-تهران
 trojan://703b5e30-cd9e-11ef-ad73-1239d0255272@usa.test3.net:443/time.is?sni=time.is#🇺🇲-تهران
-
-trojan://aa049650-cd0c-11ef-93b8-1239d0255272@usa.test3.net:443/www.speedtest.net?sni=www.speedtest.net#🇺🇲-تبریز
-trojan://a67e6150-cd0c-11ef-ac64-1239d0255272@uk1.test3.net:443/www.speedtest.net?sni=www.speedtest.net#🇬🇧-تبریز
-trojan://a30c3010-cd0c-11ef-bd96-1239d0255272@fr1.test3.net:443/www.speedtest.net?sni=www.speedtest.net#🇲🇫-تبریز
-
-trojan://c821a600-cd0c-11ef-b692-1239d0255272@fr1.test3.net:443/www.zula.ir?sni=www.zula.ir#🇲🇫-شیراز
-trojan://cb057520-cd0c-11ef-ab96-1239d0255272@uk1.test3.net:443/www.zula.ir?sni=www.zula.ir#🇬🇧-شیراز
-trojan://ced7f570-cd0c-11ef-9e5f-1239d0255272@usa.test3.net:443/www.zula.ir?sni=www.zula.ir#🇺🇲-شیراز
-
-trojan://a0b50530-cb36-11ef-a07d-1239d0255272@fr1.test3.net:443/turk.radicalization.ir?sni=turk.radicalization.ir#🇲🇫-اصفهان
-trojan://a490de70-cb36-11ef-9338-1239d0255272@uk1.test3.net:443/turk.radicalization.ir?sni=turk.radicalization.ir#🇬🇧-اصفهان
-trojan://a802afc0-cb36-11ef-ad3e-1239d0255272@usa.test3.net:443/turk.radicalization.ir?sni=turk.radicalization.ir#🇺🇲-اصفهان
-
-trojan://f1ad0d80-c9b6-11ef-9c12-1239d0255272@usa.test3.net:443/sb-in-f99.1e100.net?sni=sb-in-f99.1e100.net#🇺🇲-مشهد
-trojan://ed9b44a0-c9b6-11ef-9061-1239d0255272@uk1.test3.net:443/sb-in-f99.1e100.net?sni=sb-in-f99.1e100.net#🇬🇧-مشهد
-trojan://eaa4e370-c9b6-11ef-8e70-1239d0255272@fr1.test3.net:443/sb-in-f99.1e100.net?sni=sb-in-f99.1e100.net#🇲🇫-مشهد
-
-trojan://0dfea810-c845-11ef-87b8-1239d0255272@fr1.test3.net:443/asandownload.ir?sni=asandownload.ir#🇲🇫-کرمانشاه
-trojan://1ed55660-c845-11ef-9536-1239d0255272@fr1.test3.net:443/asandownload.ir?sni=asandownload.ir#🇲🇫-کردستان
-
-trojan://5cea08c0-c5c7-11ef-ace3-1239d0255272@fr1.test3.net:443/nima.nscl.ir?sni=nima.nscl.ir#🇲🇫-آبادان
-trojan://67cda640-c5c7-11ef-88f7-1239d0255272@uk1.test3.net:443/nima.nscl.ir?sni=nima.nscl.ir#🇬🇧-آبادان
-trojan://75335910-c5c7-11ef-bd38-1239d0255272@usa.test3.net:443/nima.nscl.ir?sni=nima.nscl.ir#🇺🇲-آبادان
-
-trojan://4f98b080-c53a-11ef-befa-1239d0255272@fr1.test3.net:443/cdnjs.com?sni=cdnjs.com#🇲🇫زاهدان-2
-trojan://558017f0-c53a-11ef-8ba8-1239d0255272@uk1.test3.net:443/cdnjs.com?sni=cdnjs.com#🇬🇧خاش-2
-trojan://58c67f40-c53a-11ef-88a5-1239d0255272@usa.test3.net:443/cdnjs.com?sni=cdnjs.com#🇺🇲کیش-2
-
-trojan://614a5030-c109-11ef-9124-1239d0255272@uk1.test3.net:443/telewebion.com?sni=telewebion.com#4-قشم
-trojan://583004a0-c109-11ef-9f31-1239d0255272@fr1.test3.net:443/telewebion.com?sni=telewebion.com#4-اهواز
-trojan://4ff19bc0-c109-11ef-a670-1239d0255272@usa.test3.net:443/telewebion.com?sni=telewebion.com#4-کاشان
-
-trojan://ecb49bc0-c107-11ef-b4b5-1239d0255272@uk1.test3.net:443/vodafone.com.tr?sni=vodafone.com.tr#hamedp71-ارومیه-2
-trojan://ea515c60-c107-11ef-a3ed-1239d0255272@fr1.test3.net:443/vodafone.com.tr?sni=vodafone.com.tr#hamedp71-اردبیل-2
-trojan://e7d82e40-c107-11ef-a0da-1239d0255272@usa.test3.net:443/vodafone.com.tr?sni=vodafone.com.tr#hamedp71-رشت-2
