@@ -3,6 +3,10 @@
 //subscription-userinfo: upload=5368709120; download=117037858816; total=955630223360; expire=1762677732
 #profile-web-page-url: @hamedvpns
 
+trojan://d7b97400-de12-11ef-ba1d-1239d0255272@fr1.test3.net:443/www.zula.ir?sni=www.zula.ir#🇲🇫-hamedp71
+trojan://db44efc0-de12-11ef-ad0c-1239d0255272@uk1.test3.net:443/www.zula.ir?sni=www.zula.ir#🇬🇧-hamedp71
+trojan://e5ed9f60-de12-11ef-8196-1239d0255272@usa.test3.net:443/www.zula.ir?sni=www.zula.ir#🇺🇲-hamedp71
+
 trojan://59817b70-dbc2-11ef-9953-1239d0255272@fr1.test3.net:443/www.speedtest.net?sni=www.speedtest.net#🇲🇫-hamedp71
 trojan://61983ce0-dbc2-11ef-9698-1239d0255272@uk1.test3.net:443/www.speedtest.net?sni=www.speedtest.net#🇬🇧-hamedp71
 trojan://66f29b10-dbc2-11ef-bd14-1239d0255272@usa.test3.net:443/www.speedtest.net?sni=www.speedtest.net#🇺🇲-hamedp71
@@ -175,16 +179,3 @@ vmess://eyJhZGQiOiJzZW1pbmFyc2lubWNiLmZhY3VsdHkudWNkYXZpcy5lZHUiLCJhaWQiOiIwIiwi
 vmess://eyJhZGQiOiJid2RyYXBlci5mYWN1bHR5LnVjZGF2aXMuZWR1IiwiYWlkIjoiMCIsImhvc3QiOiJnZXQtYS1mcmVlLW5hbWUuY29tIiwiaWQiOiI4MGY5N2IxNS1kOGFkLTQ4NjMtYjRlZC0yMmYxYmRjNTM0YTkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc3BlZWR0ZXN0IiwicG9ydCI6IjQ0MyIsInBzIjoiUmF5YW4gLSBHQUZOIC0gRkwgLSBQMTgiLCJzY3kiOiJhdXRvIiwic25pIjoiYndkcmFwZXIuZmFjdWx0eS51Y2RhdmlzLmVkdSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiJ6bWFvei5mYWN1bHR5LnVjZGF2aXMuZWR1IiwiYWlkIjoiMCIsImhvc3QiOiJnZXQtYS1mcmVlLW5hbWUuY29tIiwiaWQiOiIyOThlNGRkNS0zN2IyLTQwMjEtOTg2Ny00OTBiODI5Y2Q2NDYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc3BlZWR0ZXN0IiwicG9ydCI6IjQ0MyIsInBzIjoiUmF5YW4gLSBHQUZOIC0gRkwgLSBQMTkiLCJzY3kiOiJhdXRvIiwic25pIjoiem1hb3ouZmFjdWx0eS51Y2RhdmlzLmVkdSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiJwc2NyZXNlYXJjaC5mYWN1bHR5LnVjZGF2aXMuZWR1IiwiYWlkIjoiMCIsImhvc3QiOiJnZXQtYS1mcmVlLW5hbWUuY29tIiwiaWQiOiI0ODY3MGY4OS04ZTE1LTRkNWUtOTdkYi1jYzJlNTA2NGI0OTEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc3BlZWR0ZXN0IiwicG9ydCI6IjQ0MyIsInBzIjoiUmF5YW4gLSBHQUZOIC0gRkwgLSBQMjAiLCJzY3kiOiJhdXRvIiwic25pIjoicHNjcmVzZWFyY2guZmFjdWx0eS51Y2RhdmlzLmVkdSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-
-
-trojan://d5290780-d31c-11ef-b286-1239d0255272@fr1.test3.net:443/soft98.ir?sni=soft98.ir#🇲🇫-هندونه
-trojan://d6ad4010-d31c-11ef-9d41-1239d0255272@uk1.test3.net:443/soft98.ir?sni=soft98.ir#🇬🇧-گلابی
-trojan://db03b9a0-d31c-11ef-bdf3-1239d0255272@usa.test3.net:443/soft98.ir?sni=soft98.ir#🇺🇲-گیلاس
-
-trojan://45e92aa0-cff1-11ef-91c4-1239d0255272@usa.test3.net:443/www.namava.ir?sni=www.namava.ir#🇺🇲-تبریز
-trojan://4806fb20-cff1-11ef-b204-1239d0255272@uk1.test3.net:443/www.namava.ir?sni=www.namava.ir#🇬🇧-تبریز
-trojan://40b22ba0-cff1-11ef-abf4-1239d0255272@fr1.test3.net:443/www.namava.ir?sni=www.namava.ir#🇲🇫-تبریز
-
-trojan://66a24650-cd9e-11ef-9696-1239d0255272@fr1.test3.net:443/time.is?sni=time.is#🇲🇫-تهران
-trojan://6cc44f80-cd9e-11ef-9538-1239d0255272@uk1.test3.net:443/time.is?sni=time.is#🇬🇧-تهران
-trojan://703b5e30-cd9e-11ef-ad73-1239d0255272@usa.test3.net:443/time.is?sni=time.is#🇺🇲-تهران
