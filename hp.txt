@@ -4,45 +4,6 @@
 #profile-web-page-url: @hamedvpns
 
 
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&security=&encryption=none&host=my.ski1plag.ir&fp=chrome&type=ws#hamedp71💚
-
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@147.185.161.229:80?path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560&security=&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&fp=chrome&type=ws#hamedp71💚✅
-
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.202.155:443?security=&encryption=none&host=zula.ir&headerType=http&fp=chrome&type=tcp#hamedp71✅💚
-
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.142.120.134:80?path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560&security=&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&fp=chrome&type=ws#hamedp71❤️✅
-
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.65:443?security=&encryption=none&host=account.zula.ir&headerType=http&type=tcp#hamedp71✅❤️
-
-vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#hamedp71-1
-
-vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=di.dibdibini.dpdns.org&fp=chrome&type=ws#hamedp71-2
-
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.194.54:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#hamedp71-2
-
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.80.183:51615?security=&encryption=none&host=zula.ir&headerType=http&fp=chrome&type=tcp#hamedp71-3
-
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.190.38:51615?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#hamedp71-4
-
-vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?security=&encryption=none&host=zula.ir&headerType=http&fp=chrome&type=tcp#hamedp71-5
-
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&alpn=h2&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#hamedp71-6
-
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.207.21:443?security=&encryption=none&host=zula.ir&headerType=http&fp=chrome&type=tcp#hamedp71-7
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=&encryption=none&host=redfree8mahsang6.redfree8.ir&fp=chrome&type=ws#hamedp71-8
-
-vless://be8cf788-f546-462d-a7af-bd2505873976@ping.amirhossein.info:8443?path=%2FTelegram%40Green_WPN%40Vijra_dev%2F%3Fed%3D2560&security=&encryption=none&host=ping.amirhossein.info&fp=chrome&type=ws#hamedp71-9
-
-vless://142dd8b5-0b9e-4018-a961-2370d50cc435@185.215.228.90:20118?security=&encryption=none&host=hub.docker.com&headerType=http&type=tcp#hamedp71-10
-
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.203.193:443?security=&encryption=none&host=zula.ir&headerType=http&fp=chrome&type=tcp#hamedp71-11
-
-vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=a1.ghormehsabzi.dpdns.org&fp=chrome&type=ws#hamedp71-12
-
-vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=pari.parinazz.dpdns.org&fp=chrome&type=ws#hamedp71-13
-
-vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=barayeiran.nastaranh.dpdns.org&fp=chrome&type=ws#hamedp71😎
 
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.185:443?security=none&type=tcp&host=zula.ir&headerType=http#🇩🇪[openproxylist.com] vless-DE
 vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.6:19151?security=none&type=tcp&host=soft98.ir&headerType=http#🇫🇷[openproxylist.com] vless-FR
