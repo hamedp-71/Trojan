@@ -4,6 +4,10 @@
 #profile-web-page-url: @hamedvpns
 
 
+vless://9603de7d-1248-a741-1d69-7e1a0fb9e693@157.180.33.125:80?security=none&type=ws&path=%2FJavid-SHAH-KingRezaPahlavi%2F#%F0%9F%9A%80%20PayandeIRAN%28hamedp71%29%20%5Bvless%20-%20ws%5D
+hysteria2://9603de7d1248a7411d697e1a0fb9e693@157.180.33.125:33331?sni=kermanshah.hideus.xyz&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%F0%9F%9A%80%20IRAN%20%28hamedp71%29%20%5Bhysteria2%20-%20%3Cmissing%3E%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NjAzZGU3ZDEyNDhhNzQxMWQ2OTdlMWEwZmI5ZTY5M0AxNTcuMTgwLjMzLjEyNTo2MjAwNQ==#%F0%9F%9A%80%20SS%20%28hamedp71%29%20%5Bshadowsocks%20-%20%3Cmissing%3E%5D
+
 
 vless://510bfdb1-256c-4d80-8d75-1cbafb7cea06@www.speedtest.net:2087?security=tls&sni=fi-1-cbt.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=fi-1-cbt.medicaldream.ir&encryption=none#Rayan%20-%20CBT%20-%20WSCT%20-%20FI%20-%20I%20-%20%E2%9A%BD%EF%B8%8F%_hamedp71
 vless://510bfdb1-256c-4d80-8d75-1cbafb7cea06@138.124.15.58:2087?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=138.124.15.58&encryption=none#Rayan%20-%20CBT%20-%20WSDR%20-%20FI%20-%20I%20-%20%E2%9A%AB%EF%B8%8F%_hamedp71
