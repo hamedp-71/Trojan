@@ -49,16 +49,6 @@ vless://34d02e5d-59cd-453c-a857-32c9ae27b240@167.172.186.211:443?security=tls&sn
 
 
 
-vless://3a1130d2-be97-4849-b22f-30efd55a4c6a@51.195.202.129:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=51.195.202.129&encryption=none#Rayan%20-%20RVP%20-%20UK%20-%20I%20-%20%F0%9F%9F%A3%20hamedp71_
-vless://82488ab1-59e0-42fb-959e-ec90ec2f3165@167.172.186.211:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=167.172.186.211&encryption=none#Rayan%20-%20RVP%20-%20SE%20-%20I%20-%20%F0%9F%9F%A3%20hamedp71_
-vless://5609cab0-2ec2-4dd4-9a25-c38169a7019e@51.178.42.187:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=51.178.42.187&encryption=none#Rayan%20-%20RVP%20-%20FR%20-%20II%20-%20%F0%9F%9F%A3%20hamedp71_
-vless://23165fdb-b8dd-4570-a998-26414e90664e@139.59.75.181:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=139.59.75.181&encryption=none#Rayan%20-%20RVP%20-%20IN%20-%20I%20-%20%F0%9F%9F%A3%20hamedp71_
-vless://c672d4f1-d876-4c77-8d24-5f88af3874cf@178.128.245.246:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=178.128.245.246&encryption=none#Rayan%20-%20RVP%20-%20NL%20-%20I%20-%20%F0%9F%9F%A3%20hamedp71_
-vless://120594d1-5464-45bb-a79c-8271023578ba@148.113.207.224:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=148.113.207.224&encryption=none#Rayan%20-%20RVP%20-%20CA%20-%20I%20-%20%F0%9F%9F%A3%20hamedp71_
-vless://4fd1660f-273e-4b4a-a51e-de26bd541347@51.195.101.222:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=51.195.101.222&encryption=none#Rayan%20-%20RVP%20-%20DE%20-%20I%20-%20%F0%9F%9F%A3%20hamedp71_
-vless://e587638b-f49a-4ac4-8fea-22c3252bd2f8@167.172.89.10:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=167.172.89.10&encryption=none#Rayan%20-%20RVP%20-%20SG%20-%20I%20-%20%F0%9F%9F%A3%20hamedp71_
-vless://50ee5ef2-74ee-4e97-9e7c-a10d212d1293@157.230.91.47:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=157.230.91.47&encryption=none#Rayan%20-%20RVP%20-%20US%20-%20I%20-%20%F0%9F%9F%A3%20hamedp71_
-vless://e72bb322-00dc-4206-95bc-b9e9f041c905@57.128.219.105:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=57.128.219.105&encryption=none#Rayan%20-%20RVP%20-%20PL%20-%20I%20-%20%F0%9F%9F%A3%20hamedp71_
 vless://308ebcff-5446-4e52-86ad-70fcb1265344@www.speedtest.net:2087?security=tls&sni=fi-1-cbt.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=fi-1-cbt.medicaldream.ir&encryption=none#Rayan%20-%20CBT%20-%20FI%20-%20I%20-%20%E2%9A%BD%EF%B8%8F%20hamedp71_
 vless://308ebcff-5446-4e52-86ad-70fcb1265344@138.124.15.58:2087?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=138.124.15.58&encryption=none#Rayan%20-%20CBT%20-%20FI%20-%20I%20-%20%E2%9A%AB%EF%B8%8F%20hamedp71_
 vless://585aa12b-b7b6-4944-9628-f4b01350bfc0@www.speedtest.net:2087?security=tls&sni=fr-1-cbt.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=fr-1-cbt.medicaldream.ir&encryption=none#Rayan%20-%20CBT%20-%20FR%20-%20I%20-%20%E2%9A%BD%EF%B8%8F%20hamedp71_
