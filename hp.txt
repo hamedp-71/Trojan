@@ -4,6 +4,8 @@
 #profile-web-page-url: @hamedvpns
 
 
+anytls://mvztmmOZjZ@80.240.26.147:443?sni=suiany.makingirangreatagain.com&servername=suiany.makingirangreatagain.com#anytls-443
+
 
 vless://b754b53a-aaf5-475c-eeed-46806c2aa63f@nkang2replace.airlineshoma.com:443?security=tls&sni=nkang2replace.airlineshoma.com&allowInsecure=0&fp=chrome&type=ws&path=/&host=nkang2replace.airlineshoma.com&encryption=none#🇸🇪%20hamedp71-1-V
 vless://b754b53a-aaf5-475c-eeed-46806c2aa63f@zula.ir:443?security=tls&sni=nkang2replace.airlineshoma.com&allowInsecure=0&fp=chrome&type=ws&path=/&host=nkang2replace.airlineshoma.com&encryption=none#🇸🇪%20hamedp71-2-V
