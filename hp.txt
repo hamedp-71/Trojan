@@ -7,23 +7,12 @@
 vless://97fc44dd-c88c-4470-8d66-1752089c0183@zula.ir:2053?type=ws&security=tls&path=%2F&host=frAgeU2.cpI2HIdd.eu.ORG&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=frAgeU2.cpI2HIdd.eu.ORG&allowInsecure=1#Fragment_hamedp71
 
 
-anytls://mvztmmOZjZ@80.240.26.147:443?sni=suiany.makingirangreatagain.com&servername=suiany.makingirangreatagain.com#🇩🇪 anytls-443
+
+vless://e959d53c-91e9-459d-a332-d59ae89b3b4c@hdfynpv2d1.makingirangreatagain.com:443?path=%2FIyq035lnud9R8ruNNrqGxZZ2&security=tls&encryption=none&host=hdfynpv2d1.makingirangreatagain.com&fp=chrome&type=ws&sni=hdfynpv2d1.makingirangreatagain.com&flow=&packetEncoding=xudp#🇩🇪-Direct-VLESS
+vless://e959d53c-91e9-459d-a332-d59ae89b3b4c@hdfynpv2c1.farvaharforever.com:443?path=%2FIyq035lnud9R8ruNNrqGxZZ2&security=tls&encryption=none&host=hdfynpv2c1.farvaharforever.com&fp=chrome&type=ws&sni=hdfynpv2c1.farvaharforever.com&flow=&packetEncoding=xudp#🇩🇪-AD-CDN-VLESS
+vless://e959d53c-91e9-459d-a332-d59ae89b3b4c@hdfynpv2d1.farvaharforever.com:443?path=%2FIyq035lnud9R8ruNNrqGxZZ2&security=tls&encryption=none&host=hdfynpv2d1.farvaharforever.com&fp=chrome&type=ws&sni=hdfynpv2d1.farvaharforever.com&flow=&packetEncoding=xudp#🇩🇪-Telegram-VLESS
 
 
-vless://b754b53a-aaf5-475c-eeed-46806c2aa63f@nkang2replace.airlineshoma.com:443?security=tls&sni=nkang2replace.airlineshoma.com&allowInsecure=0&fp=chrome&type=ws&path=/&host=nkang2replace.airlineshoma.com&encryption=none#🇸🇪%20hamedp71-1-V
-vless://b754b53a-aaf5-475c-eeed-46806c2aa63f@zula.ir:443?security=tls&sni=nkang2replace.airlineshoma.com&allowInsecure=0&fp=chrome&type=ws&path=/&host=nkang2replace.airlineshoma.com&encryption=none#🇸🇪%20hamedp71-2-V
-vless://b754b53a-aaf5-475c-eeed-46806c2aa63f@openai.com:443?security=tls&sni=nkang2replace.airlineshoma.com&allowInsecure=0&fp=chrome&type=ws&path=/&host=nkang2replace.airlineshoma.com&encryption=none#🇸🇪%20hamedp71-3-V
-vless://b754b53a-aaf5-475c-eeed-46806c2aa63f@www.speedtest.net:443?security=tls&sni=nkang2replace.airlineshoma.com&allowInsecure=0&fp=chrome&type=ws&path=/&host=nkang2replace.airlineshoma.com&encryption=none#🇸🇪%20hamedp71-4-V
-vless://b754b53a-aaf5-475c-eeed-46806c2aa63f@kifpool.me:443?security=tls&sni=nkang2replace.airlineshoma.com&allowInsecure=0&fp=chrome&type=ws&path=/&host=nkang2replace.airlineshoma.com&encryption=none#🇸🇪%20hamedp71-5-V
-vless://b754b53a-aaf5-475c-eeed-46806c2aa63f@indeed.com:443?security=tls&sni=nkang2replace.airlineshoma.com&allowInsecure=0&fp=chrome&type=ws&path=/&host=nkang2replace.airlineshoma.com&encryption=none#🇸🇪%20hamedp71-6-V
-vless://b754b53a-aaf5-475c-eeed-46806c2aa63f@autotrader.co.uk:443?security=tls&sni=nkang2replace.airlineshoma.com&allowInsecure=0&fp=chrome&type=ws&path=/&host=nkang2replace.airlineshoma.com&encryption=none#🇸🇪%20hamedp71-7-V
-vless://b754b53a-aaf5-475c-eeed-46806c2aa63f@nkang2replace.airlineshoma.com:443?security=tls&sni=nkang2replace.airlineshoma.com&allowInsecure=0&fp=chrome&type=ws&path=/&host=nkang2replace.airlineshoma.com&encryption=none#🇸🇪%20hamedp71-8-V
-vless://b754b53a-aaf5-475c-eeed-46806c2aa63f@zula.ir:443?security=tls&sni=nkang2replace.airlineshoma.com&allowInsecure=0&fp=chrome&type=ws&path=/&host=nkang2replace.airlineshoma.com&encryption=none#🇸🇪%20hamedp71-9-V
-vless://b754b53a-aaf5-475c-eeed-46806c2aa63f@openai.com:443?security=tls&sni=nkang2replace.airlineshoma.com&allowInsecure=0&fp=chrome&type=ws&path=/&host=nkang2replace.airlineshoma.com&encryption=none#🇸🇪%20hamedp71-10-V
-vless://b754b53a-aaf5-475c-eeed-46806c2aa63f@www.speedtest.net:443?security=tls&sni=nkang2replace.airlineshoma.com&allowInsecure=0&fp=chrome&type=ws&path=/&host=nkang2replace.airlineshoma.com&encryption=none#🇸🇪%20hamedp71-11-V
-vless://b754b53a-aaf5-475c-eeed-46806c2aa63f@kifpool.me:443?security=tls&sni=nkang2replace.airlineshoma.com&allowInsecure=0&fp=chrome&type=ws&path=/&host=nkang2replace.airlineshoma.com&encryption=none#🇸🇪%20hamedp71-12-V
-vless://b754b53a-aaf5-475c-eeed-46806c2aa63f@indeed.com:443?security=tls&sni=nkang2replace.airlineshoma.com&allowInsecure=0&fp=chrome&type=ws&path=/&host=nkang2replace.airlineshoma.com&encryption=none#🇸🇪%20hamedp71-13-V
-vless://b754b53a-aaf5-475c-eeed-46806c2aa63f@autotrader.co.uk:443?security=tls&sni=nkang2replace.airlineshoma.com&allowInsecure=0&fp=chrome&type=ws&path=/&host=nkang2replace.airlineshoma.com&encryption=none#🇸🇪%20hamedp71-14-V
 
 
 vless://f3939d9d-6638-4c28-a6d0-950f392766af@51.195.202.129:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20UK%20-%20I%20-%20%F0%9F%9F%A3%20@hamedp71
