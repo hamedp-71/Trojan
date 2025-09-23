@@ -5,6 +5,11 @@
 #profile-web-page-url: https://github.com/hamedp-71
 
 
+
+hysteria2://4e5fdf31-1aac-419c-9a95-c43be04adcb2@dir.cybsecguru.com:35000?sni=jnir.pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&alpn=h3#JNIR-IPv4-(No-ECH)
+hysteria2://4e5fdf31-1aac-419c-9a95-c43be04adcb2@dir.cybsecguru.com:35000?sni=jnir.pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&alpn=h3#JNIR-IPv6-(No-ECH)
+
+
 vless://6877b96c-a092-4f90-8e46-cbb4cad2bb9f@104.26.12.31:2096?encryption=none&security=tls&sni=vless-10.webn.cc&type=ws&host=vless-10.webn.cc&path=%2Fsnippets%3Fip%3Dproxyip%3Aport%28443%29%26nat64%3D6to4#hamedp71-1
 vless://6877b96c-a092-4f90-8e46-cbb4cad2bb9f@vless-10.webn.cc:2087?encryption=none&security=tls&sni=vless-10.webn.cc&type=ws&host=vless-10.webn.cc&path=%2Fsnippets%3Fip%3Dproxyip%3Aport%28443%29%26nat64%3D6to4#hamedp71-2
 vless://6877b96c-a092-4f90-8e46-cbb4cad2bb9f@vless-10.webn.cc:443?encryption=none&security=tls&sni=vless-10.webn.cc&type=ws&host=vless-10.webn.cc&path=%2Fsnippets%3Fip%3Dproxyip%3Aport%28443%29%26nat64%3D6to4#hamedp71-3
