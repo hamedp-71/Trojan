@@ -6,6 +6,37 @@
 
 
 
+vless://47e329b1-2ff6-48a2-90af-25a03fc70083@braze.com:2053?encryption=none&security=tls&sni=frageu2.cpi2hidd.eu.org&fp=chrome&alpn=h2%2Chttp%2F1.1&type=ws&host=frageu2.cpi2hidd.eu.org&path=%2F#hamedp71-1
+vless://47e329b1-2ff6-48a2-90af-25a03fc70083@vinted.fr:2053?encryption=none&security=tls&sni=frageu2.cpi2hidd.eu.org&fp=chrome&alpn=h2%2Chttp%2F1.1&type=ws&host=frageu2.cpi2hidd.eu.org&path=%2F#hamedp71-2
+vless://47e329b1-2ff6-48a2-90af-25a03fc70083@indeed.com:2053?encryption=none&security=tls&sni=frageu2.cpi2hidd.eu.org&fp=chrome&alpn=h2%2Chttp%2F1.1&type=ws&host=frageu2.cpi2hidd.eu.org&path=%2F#hamedp71-3
+vless://47e329b1-2ff6-48a2-90af-25a03fc70083@economist.com:2053?encryption=none&security=tls&sni=frageu2.cpi2hidd.eu.org&fp=chrome&alpn=h2%2Chttp%2F1.1&type=ws&host=frageu2.cpi2hidd.eu.org&path=%2F#hamedp71-4
+vless://47e329b1-2ff6-48a2-90af-25a03fc70083@autotrader.co.uk:2053?encryption=none&security=tls&sni=frageu2.cpi2hidd.eu.org&fp=chrome&alpn=h2%2Chttp%2F1.1&type=ws&host=frageu2.cpi2hidd.eu.org&path=%2F#hamedp71-5
+vless://47e329b1-2ff6-48a2-90af-25a03fc70083@ico.org.uk:2053?encryption=none&security=tls&sni=frageu2.cpi2hidd.eu.org&fp=chrome&alpn=h2%2Chttp%2F1.1&type=ws&host=frageu2.cpi2hidd.eu.org&path=%2F#hamedp71-6
+vless://47e329b1-2ff6-48a2-90af-25a03fc70083@thailandnet65.ir:2053?encryption=none&security=tls&sni=frageu2.cpi2hidd.eu.org&fp=chrome&alpn=h2%2Chttp%2F1.1&type=ws&host=frageu2.cpi2hidd.eu.org&path=%2F#hamedp71-7
+vless://47e329b1-2ff6-48a2-90af-25a03fc70083@tgju.org:2053?encryption=none&security=tls&sni=frageu2.cpi2hidd.eu.org&fp=chrome&alpn=h2%2Chttp%2F1.1&type=ws&host=frageu2.cpi2hidd.eu.org&path=%2F#hamedp71-8
+vless://47e329b1-2ff6-48a2-90af-25a03fc70083@cdnjs.com:2053?encryption=none&security=tls&sni=frageu2.cpi2hidd.eu.org&fp=chrome&alpn=h2%2Chttp%2F1.1&type=ws&host=frageu2.cpi2hidd.eu.org&path=%2F#hamedp71-9
+vless://47e329b1-2ff6-48a2-90af-25a03fc70083@npmjs.com:2053?encryption=none&security=tls&sni=frageu2.cpi2hidd.eu.org&fp=chrome&alpn=h2%2Chttp%2F1.1&type=ws&host=frageu2.cpi2hidd.eu.org&path=%2F#hamedp71-10
+vless://47e329b1-2ff6-48a2-90af-25a03fc70083@nodejs.org:2053?encryption=none&security=tls&sni=frageu2.cpi2hidd.eu.org&fp=chrome&alpn=h2%2Chttp%2F1.1&type=ws&host=frageu2.cpi2hidd.eu.org&path=%2F#hamedp71-11
+vless://47e329b1-2ff6-48a2-90af-25a03fc70083@fonts.com:2053?encryption=none&security=tls&sni=frageu2.cpi2hidd.eu.org&fp=chrome&alpn=h2%2Chttp%2F1.1&type=ws&host=frageu2.cpi2hidd.eu.org&path=%2F#hamedp71-12
+vless://47e329b1-2ff6-48a2-90af-25a03fc70083@w3.org:2053?encryption=none&security=tls&sni=frageu2.cpi2hidd.eu.org&fp=chrome&alpn=h2%2Chttp%2F1.1&type=ws&host=frageu2.cpi2hidd.eu.org&path=%2F#hamedp71-13
+vless://47e329b1-2ff6-48a2-90af-25a03fc70083@bluehost.com:2053?encryption=none&security=tls&sni=frageu2.cpi2hidd.eu.org&fp=chrome&alpn=h2%2Chttp%2F1.1&type=ws&host=frageu2.cpi2hidd.eu.org&path=%2F#hamedp7-14
+vless://47e329b1-2ff6-48a2-90af-25a03fc70083@ahrefs.com:2053?encryption=none&security=tls&sni=frageu2.cpi2hidd.eu.org&fp=chrome&alpn=h2%2Chttp%2F1.1&type=ws&host=frageu2.cpi2hidd.eu.org&path=%2F#hamedp71-15
+vless://47e329b1-2ff6-48a2-90af-25a03fc70083@chatgpt.com:2053?encryption=none&security=tls&sni=frageu2.cpi2hidd.eu.org&fp=chrome&alpn=h2%2Chttp%2F1.1&type=ws&host=frageu2.cpi2hidd.eu.org&path=%2F#hamedp71-16
+vless://47e329b1-2ff6-48a2-90af-25a03fc70083@codepen.io:2053?encryption=none&security=tls&sni=frageu2.cpi2hidd.eu.org&fp=chrome&alpn=h2%2Chttp%2F1.1&type=ws&host=frageu2.cpi2hidd.eu.org&path=%2F#hamedp71-17
+vless://47e329b1-2ff6-48a2-90af-25a03fc70083@hubspot.com:2053?encryption=none&security=tls&sni=frageu2.cpi2hidd.eu.org&fp=chrome&alpn=h2%2Chttp%2F1.1&type=ws&host=frageu2.cpi2hidd.eu.org&path=%2F#hamedp71-18
+vless://47e329b1-2ff6-48a2-90af-25a03fc70083@surfiran.com:2053?encryption=none&security=tls&sni=frageu2.cpi2hidd.eu.org&fp=chrome&alpn=h2%2Chttp%2F1.1&type=ws&host=frageu2.cpi2hidd.eu.org&path=%2F#hamedp71-19
+vless://47e329b1-2ff6-48a2-90af-25a03fc70083@tappersia.com:2053?encryption=none&security=tls&sni=frageu2.cpi2hidd.eu.org&fp=chrome&alpn=h2%2Chttp%2F1.1&type=ws&host=frageu2.cpi2hidd.eu.org&path=%2F#hamedp71-20
+vless://47e329b1-2ff6-48a2-90af-25a03fc70083@didnegar.com:2053?encryption=none&security=tls&sni=frageu2.cpi2hidd.eu.org&fp=chrome&alpn=h2%2Chttp%2F1.1&type=ws&host=frageu2.cpi2hidd.eu.org&path=%2F#hamedp71-21
+vless://47e329b1-2ff6-48a2-90af-25a03fc70083@ihiran.ir:2053?encryption=none&security=tls&sni=frageu2.cpi2hidd.eu.org&fp=chrome&alpn=h2%2Chttp%2F1.1&type=ws&host=frageu2.cpi2hidd.eu.org&path=%2F#hamedp71-22
+vless://47e329b1-2ff6-48a2-90af-25a03fc70083@vandiet.ir:2053?encryption=none&security=tls&sni=frageu2.cpi2hidd.eu.org&fp=chrome&alpn=h2%2Chttp%2F1.1&type=ws&host=frageu2.cpi2hidd.eu.org&path=%2F#hamedp71-23
+vless://47e329b1-2ff6-48a2-90af-25a03fc70083@check-host.net:2053?encryption=none&security=tls&sni=frageu2.cpi2hidd.eu.org&fp=chrome&alpn=h2%2Chttp%2F1.1&type=ws&host=frageu2.cpi2hidd.eu.org&path=%2F#hamedp71-24
+vless://47e329b1-2ff6-48a2-90af-25a03fc70083@db-ip.com:2053?encryption=none&security=tls&sni=frageu2.cpi2hidd.eu.org&fp=chrome&alpn=h2%2Chttp%2F1.1&type=ws&host=frageu2.cpi2hidd.eu.org&path=%2F#hamedp71-25
+vless://47e329b1-2ff6-48a2-90af-25a03fc70083@hunter.io:2053?encryption=none&security=tls&sni=frageu2.cpi2hidd.eu.org&fp=chrome&alpn=h2%2Chttp%2F1.1&type=ws&host=frageu2.cpi2hidd.eu.org&path=%2F#hamedp71-26
+vless://47e329b1-2ff6-48a2-90af-25a03fc70083@mvps.net:2053?encryption=none&security=tls&sni=frageu2.cpi2hidd.eu.org&fp=chrome&alpn=h2%2Chttp%2F1.1&type=ws&host=frageu2.cpi2hidd.eu.org&path=%2F#hamedp71-27
+vless://47e329b1-2ff6-48a2-90af-25a03fc70083@example.com:2053?encryption=none&security=tls&sni=frageu2.cpi2hidd.eu.org&fp=chrome&alpn=h2%2Chttp%2F1.1&type=ws&host=frageu2.cpi2hidd.eu.org&path=%2F#hamedp71-28
+
+
+
 hysteria2://4e5fdf31-1aac-419c-9a95-c43be04adcb2@dir.cybsecguru.com:35000?sni=jnir.pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&alpn=h3#JNIR-IPv4-(No-ECH)
 hysteria2://4e5fdf31-1aac-419c-9a95-c43be04adcb2@dir.cybsecguru.com:35000?sni=jnir.pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&alpn=h3#JNIR-IPv6-(No-ECH)
 
