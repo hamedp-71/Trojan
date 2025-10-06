@@ -122,24 +122,6 @@ vless://b754b53a-aaf5-475c-eeed-46806c2aa63f@autotrader.co.uk:443?security=tls&s
 
 
 
-vless://f599eb06-508a-4e24-9d59-4c50bf0332b9@91.98.79.239:443?encryption=none&security=tls&sni=plaza.ir&alpn=h2&fp=chrome&allowInsecure=1&type=grpc&authority=&serviceName=JCG7HcKpCWxijB2PP2bFqNR7h7F8&mode=gun#🇩🇪 grpc%20direct%20vless
-vless://f599eb06-508a-4e24-9d59-4c50bf0332b9@91.98.79.239:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tempail.com&alpn=http%2F1.1&fp=chrome&pbk=6wcvf78pdo-cH395vAliVVWoc5x8LSBgXJCQEF8KbA8&sid=f47f400cc96a4e&type=tcp&headerType=none&host=tempail.com&allowInsecure=1#🇩🇪 reality%20tcp%20direct%20vless
-vless://f599eb06-508a-4e24-9d59-4c50bf0332b9@91.98.79.239:443?encryption=none&security=tls&sni=plaza.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=plaza.ir&path=%2FJCG7HcKpCWxijB2IADOUXiAjgsQ6#WS%20direct%20vless
-vless://f599eb06-508a-4e24-9d59-4c50bf0332b9@91.98.79.239:443?encryption=none&security=tls&sni=plaza.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1&type=httpupgrade&host=plaza.ir&path=%2FJCG7HcKpCWxijB2NRTLOucUnG4RrGx#🇩🇪 http upgrade direct vless
-vless://f599eb06-508a-4e24-9d59-4c50bf0332b9@91.98.79.239:443?encryption=none&security=tls&sni=plaza.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1&type=xhttp&host=plaza.ir&path=%2FJCG7HcKpCWxijB2m2wplj95x2yIWiU&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20%28Linux%3B%20Android%2010%3B%20K%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F138.0.0.0%20Safari%2F537.36%22%2C%22Pragma%22%3A%22no-cache%22%7D%2C%22downloadSettings%22%3A%7B%22address%22%3A%2291.98.79.239%22%2C%22port%22%3A443%2C%22network%22%3A%22xhttp%22%2C%22xhttpSettings%22%3A%7B%22path%22%3A%22%2FJCG7HcKpCWxijB2m2wplj95x2yIWiU%22%2C%22host%22%3A%22plaza.ir%22%2C%22mode%22%3A%22auto%22%2C%22extra%22%3A%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20%28Linux%3B%20Android%2010%3B%20K%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F138.0.0.0%20Safari%2F537.36%22%2C%22Pragma%22%3A%22no-cache%22%7D%7D%7D%2C%22security%22%3A%22tls%22%2C%22tlsSettings%22%3A%7B%22serverName%22%3A%22plaza.ir%22%2C%22allowInsecure%22%3Atrue%2C%22fingerprint%22%3A%22chrome%22%2C%22alpn%22%3A%5B%22h2%22%5D%7D%7D%7D#🇩🇪 tls%20xhttp%20direct%20vless%20dl%3Dh2
-vless://f599eb06-508a-4e24-9d59-4c50bf0332b9@91.98.79.239:443?encryption=none&security=tls&sni=plaza.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1&type=xhttp&host=plaza.ir&path=%2FJCG7HcKpCWxijB2m2wplj95x2yIWiU&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20%28Linux%3B%20Android%2010%3B%20K%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F138.0.0.0%20Safari%2F537.36%22%2C%22Pragma%22%3A%22no-cache%22%7D%7D#🇩🇪 xhttp%20direct%20vless%20dl%3Dh1
-tuic://f599eb06-508a-4e24-9d59-4c50bf0332b9%3Af599eb06-508a-4e24-9d59-4c50bf0332b9@91.98.79.239:30806?sni=plaza.ir&alpn=h3&congestion_control=cubic&allowInsecure=1#🇩🇪 TUIC
-hysteria2://f599eb06-508a-4e24-9d59-4c50bf0332b9@91.98.79.239:29111?sni=plaza.ir&obfs=salamander&obfs-password=zVwQtP96XEO8ylpQ&insecure=1&allowInsecure=1#🇩🇪 Hysteria2
-
-
-
-vless://0ec8c120-33fa-4658-9bed-3a51cb04c55c@net2026cd.zanddynastyofpersia.org:443?path=%2FeJsVXFVZ6iavNx1EFxOyH861WH&security=tls&encryption=none&host=net2026cd.zanddynastyofpersia.org&fp=chrome&type=ws&sni=net2026cd.zanddynastyofpersia.org#%F0%9F%87%A9%F0%9F%87%AA%20tls%20WS%20CDN%20vless-trojan
-vless://0ec8c120-33fa-4658-9bed-3a51cb04c55c@net2026.zanddynastyofpersia.org:443?path=%2FeJsVXFVZ6iavNx1EFxOyH861WH&security=tls&encryption=none&host=net2026.zanddynastyofpersia.org&fp=chrome&type=ws&sni=net2026.zanddynastyofpersia.org#%F0%9F%87%A9%F0%9F%87%AA%20tls%20WS%20direct%20vless-frag
-vless://0ec8c120-33fa-4658-9bed-3a51cb04c55c@net2026cd.zanddynastyofpersia.org:443?path=%2FeJsVXFVZ6iavNx1EFxOyH861WH&security=tls&encryption=none&host=net2026cd.zanddynastyofpersia.org&fp=chrome&type=ws&sni=net2026cd.zanddynastyofpersia.org#%F0%9F%87%A9%F0%9F%87%AA%20tls%20WS%20CDN%20vless-trojan-frag
-vless://0ec8c120-33fa-4658-9bed-3a51cb04c55c@net2026.zanddynastyofpersia.org:443?path=%2FeJsVXFVZ6iavNx1EFxOyH861WH&security=tls&encryption=none&host=net2026.zanddynastyofpersia.org&fp=chrome&type=ws&sni=net2026.zanddynastyofpersia.org#%F0%9F%87%A9%F0%9F%87%AA%20tls%20WS%20direct%20vless
-
-
-
 vless://7d18fc67-1994-4f7e-8ff8-c024223f33bb@braze.com:443?security=tls&sni=revcloud.migacpi.org&type=ws&host=revcloud.migacpi.org&path=%2Fcbde4058-6b81-432b-8689-dd7ce10e479c#%F0%9F%87%B3%F0%9F%87%B1%201%20hamedp71%20-%20Vless
 vless://7d18fc67-1994-4f7e-8ff8-c024223f33bb@vinted.fr:443?security=tls&sni=revcloud.migacpi.org&type=ws&host=revcloud.migacpi.org&path=%2Fcbde4058-6b81-432b-8689-dd7ce10e479c#%F0%9F%87%B3%F0%9F%87%B1%202%20hamedp71%20-%20Vless
 vless://7d18fc67-1994-4f7e-8ff8-c024223f33bb@indeed.com:443?security=tls&sni=revcloud.migacpi.org&type=ws&host=revcloud.migacpi.org&path=%2Fcbde4058-6b81-432b-8689-dd7ce10e479c#%F0%9F%87%B3%F0%9F%87%B1%203%20hamedp71%20-%20Vless
@@ -317,3 +299,25 @@ hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?obfs=salamander
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.18:38388#%E8%B6%8A%E5%8D%97%20-%20H%E1%BA%A3i%20D%C6%B0%C6%A1ng%20-%20FASTLY%20-%202
 
 hy2://ae845cbd-08fb-4346-929a-e28a6f3960a8@hk1.shiyuandian.shop:24591?insecure=1&sni=hk1.shiyuandian.shop#%E4%B8%AD%E5%9B%BD%20-%20%E9%A6%99%E6%B8%AF%20-%20Ultahost,%20Inc.%20-%208
+
+
+
+
+
+vless://f599eb06-508a-4e24-9d59-4c50bf0332b9@91.98.79.239:443?encryption=none&security=tls&sni=plaza.ir&alpn=h2&fp=chrome&allowInsecure=1&type=grpc&authority=&serviceName=JCG7HcKpCWxijB2PP2bFqNR7h7F8&mode=gun#🇩🇪 grpc%20direct%20vless
+vless://f599eb06-508a-4e24-9d59-4c50bf0332b9@91.98.79.239:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tempail.com&alpn=http%2F1.1&fp=chrome&pbk=6wcvf78pdo-cH395vAliVVWoc5x8LSBgXJCQEF8KbA8&sid=f47f400cc96a4e&type=tcp&headerType=none&host=tempail.com&allowInsecure=1#🇩🇪 reality%20tcp%20direct%20vless
+vless://f599eb06-508a-4e24-9d59-4c50bf0332b9@91.98.79.239:443?encryption=none&security=tls&sni=plaza.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=plaza.ir&path=%2FJCG7HcKpCWxijB2IADOUXiAjgsQ6#WS%20direct%20vless
+vless://f599eb06-508a-4e24-9d59-4c50bf0332b9@91.98.79.239:443?encryption=none&security=tls&sni=plaza.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1&type=httpupgrade&host=plaza.ir&path=%2FJCG7HcKpCWxijB2NRTLOucUnG4RrGx#🇩🇪 http upgrade direct vless
+vless://f599eb06-508a-4e24-9d59-4c50bf0332b9@91.98.79.239:443?encryption=none&security=tls&sni=plaza.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1&type=xhttp&host=plaza.ir&path=%2FJCG7HcKpCWxijB2m2wplj95x2yIWiU&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20%28Linux%3B%20Android%2010%3B%20K%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F138.0.0.0%20Safari%2F537.36%22%2C%22Pragma%22%3A%22no-cache%22%7D%2C%22downloadSettings%22%3A%7B%22address%22%3A%2291.98.79.239%22%2C%22port%22%3A443%2C%22network%22%3A%22xhttp%22%2C%22xhttpSettings%22%3A%7B%22path%22%3A%22%2FJCG7HcKpCWxijB2m2wplj95x2yIWiU%22%2C%22host%22%3A%22plaza.ir%22%2C%22mode%22%3A%22auto%22%2C%22extra%22%3A%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20%28Linux%3B%20Android%2010%3B%20K%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F138.0.0.0%20Safari%2F537.36%22%2C%22Pragma%22%3A%22no-cache%22%7D%7D%7D%2C%22security%22%3A%22tls%22%2C%22tlsSettings%22%3A%7B%22serverName%22%3A%22plaza.ir%22%2C%22allowInsecure%22%3Atrue%2C%22fingerprint%22%3A%22chrome%22%2C%22alpn%22%3A%5B%22h2%22%5D%7D%7D%7D#🇩🇪 tls%20xhttp%20direct%20vless%20dl%3Dh2
+vless://f599eb06-508a-4e24-9d59-4c50bf0332b9@91.98.79.239:443?encryption=none&security=tls&sni=plaza.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1&type=xhttp&host=plaza.ir&path=%2FJCG7HcKpCWxijB2m2wplj95x2yIWiU&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20%28Linux%3B%20Android%2010%3B%20K%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F138.0.0.0%20Safari%2F537.36%22%2C%22Pragma%22%3A%22no-cache%22%7D%7D#🇩🇪 xhttp%20direct%20vless%20dl%3Dh1
+tuic://f599eb06-508a-4e24-9d59-4c50bf0332b9%3Af599eb06-508a-4e24-9d59-4c50bf0332b9@91.98.79.239:30806?sni=plaza.ir&alpn=h3&congestion_control=cubic&allowInsecure=1#🇩🇪 TUIC
+hysteria2://f599eb06-508a-4e24-9d59-4c50bf0332b9@91.98.79.239:29111?sni=plaza.ir&obfs=salamander&obfs-password=zVwQtP96XEO8ylpQ&insecure=1&allowInsecure=1#🇩🇪 Hysteria2
+
+
+
+vless://0ec8c120-33fa-4658-9bed-3a51cb04c55c@net2026cd.zanddynastyofpersia.org:443?path=%2FeJsVXFVZ6iavNx1EFxOyH861WH&security=tls&encryption=none&host=net2026cd.zanddynastyofpersia.org&fp=chrome&type=ws&sni=net2026cd.zanddynastyofpersia.org#%F0%9F%87%A9%F0%9F%87%AA%20tls%20WS%20CDN%20vless-trojan
+vless://0ec8c120-33fa-4658-9bed-3a51cb04c55c@net2026.zanddynastyofpersia.org:443?path=%2FeJsVXFVZ6iavNx1EFxOyH861WH&security=tls&encryption=none&host=net2026.zanddynastyofpersia.org&fp=chrome&type=ws&sni=net2026.zanddynastyofpersia.org#%F0%9F%87%A9%F0%9F%87%AA%20tls%20WS%20direct%20vless-frag
+vless://0ec8c120-33fa-4658-9bed-3a51cb04c55c@net2026cd.zanddynastyofpersia.org:443?path=%2FeJsVXFVZ6iavNx1EFxOyH861WH&security=tls&encryption=none&host=net2026cd.zanddynastyofpersia.org&fp=chrome&type=ws&sni=net2026cd.zanddynastyofpersia.org#%F0%9F%87%A9%F0%9F%87%AA%20tls%20WS%20CDN%20vless-trojan-frag
+vless://0ec8c120-33fa-4658-9bed-3a51cb04c55c@net2026.zanddynastyofpersia.org:443?path=%2FeJsVXFVZ6iavNx1EFxOyH861WH&security=tls&encryption=none&host=net2026.zanddynastyofpersia.org&fp=chrome&type=ws&sni=net2026.zanddynastyofpersia.org#%F0%9F%87%A9%F0%9F%87%AA%20tls%20WS%20direct%20vless
+
+
