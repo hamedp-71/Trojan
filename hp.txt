@@ -6,6 +6,15 @@
 
 
 
+tuic://db6d80b9-e5c5-4e56-a8ca-722ef5d86b52:7adf542f542f808f0cb9053b70ac343f@217.160.125.125:14732?congestion_control=bbr&alpn=h3&allowInsecure=1&sni=www.bing.com&udp_relay_mode=native&disable_sni=0&reduce_rtt=1&max_udp_relay_packet_size=8192#TUIC-hamedp71
+tuic://86ad8f63-1302-410b-9fab-835d47776b5e:f8c83c0399f1fd8fec5c27d20959a9aa@217.160.125.127:14853?congestion_control=bbr&alpn=h3&allowInsecure=1&sni=www.bing.com&udp_relay_mode=native&disable_sni=0&reduce_rtt=1&max_udp_relay_packet_size=8192#TUIC-hamedp71-1
+
+
+
+
+
+
+
 ### 🇦🇲 ارمنستان
 vless://12345678-1234-1234-1234-123456789123@188.164.159.61:2096?security=tls&sni=vless.hubp.de&allowInsecure=1&fp=chrome&type=ws&path=/snippets&host=vless.hubp.de&packetEncoding=xudp&encryption=none#🇦🇲%20Armenia%20-%201
 
