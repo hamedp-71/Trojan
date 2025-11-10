@@ -6,16 +6,6 @@
 
 
 
-tuic://db6d80b9-e5c5-4e56-a8ca-722ef5d86b52:7adf542f542f808f0cb9053b70ac343f@217.160.125.125:14732?congestion_control=bbr&alpn=h3&allowInsecure=1&sni=www.bing.com&udp_relay_mode=native&disable_sni=0&reduce_rtt=1&max_udp_relay_packet_size=8192#TUIC-hamedp71
-tuic://86ad8f63-1302-410b-9fab-835d47776b5e:f8c83c0399f1fd8fec5c27d20959a9aa@217.160.125.127:14853?congestion_control=bbr&alpn=h3&allowInsecure=1&sni=www.bing.com&udp_relay_mode=native&disable_sni=0&reduce_rtt=1&max_udp_relay_packet_size=8192#TUIC-hamedp71-1
-tuic://29e38174-279a-401e-b247-149409d0e81a:7ec295f379c9bce0e9ee1bb56ec4b6c2@217.160.125.128:14713?congestion_control=bbr&alpn=h3&allowInsecure=1&sni=www.bing.com&udp_relay_mode=native&disable_sni=0&reduce_rtt=1&max_udp_relay_packet_size=8192#TUIC-hamedp71-2
-
-
-tuic://11c1f66a-9186-4623-9d03-6da9ac0b18e1:e4da1f5b695bb6aa263fc3c2d1af2cf3@217.160.125.127:14873?alpn=h3&congestion_control=bbr&congestion_controller=bbr&reduce_rtt=1&sni=www.bing.com&udp_relay_mode=native&version=5#Dr-Anv-1%F0%9F%87%A9%F0%9F%87%AA
-tuic://454a16fd-561c-4bb8-8289-eb85107bdea6:69f3dd149dd1a3380ed7b177d767813a@87.106.62.92:14698?alpn=h3&congestion_control=bbr&congestion_controller=bbr&reduce_rtt=1&sni=www.bing.com&udp_relay_mode=native&version=5#Dr-Anv-2%F0%9F%87%A9%F0%9F%87%AA
-
-
-
 
 ### 🇦🇲 ارمنستان
 vless://12345678-1234-1234-1234-123456789123@188.164.159.61:2096?security=tls&sni=vless.hubp.de&allowInsecure=1&fp=chrome&type=ws&path=/snippets&host=vless.hubp.de&packetEncoding=xudp&encryption=none#🇦🇲%20Armenia%20-%201
